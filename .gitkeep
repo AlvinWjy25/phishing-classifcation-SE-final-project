@@ -1,4 +1,4 @@
-src
+src/
 
 # upload backend despite empty for first commit dir
 backend/credentials
